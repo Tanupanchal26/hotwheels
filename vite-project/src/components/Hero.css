@@ -12,7 +12,7 @@
     radial-gradient(circle at center, rgba(255, 255, 255, 0.15) 0%, transparent 60%),
     linear-gradient(to right, #061534, #061534);    display: flex;
     flex-direction: column;
-    color: white;
+    color: rgb(216, 220, 204);
     overflow: hidden;
   }
   
