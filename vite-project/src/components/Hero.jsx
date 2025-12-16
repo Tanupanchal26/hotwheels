@@ -47,7 +47,7 @@ const wheels = [
       
       {
         src: "/images/hotwheel4.png",
-        color: "#0A0F14", 
+        color: "#2b4156ff", 
         title: "Deora II",
         tagline: "Surf & Style",
         description: `A futuristic Hot Wheels icon with sleek curves and a bold silhouette. 
