@@ -74,7 +74,7 @@ const Hero = () => {
       className="hero"
       animate={{
         background: `
-          radial-gradient(circle at center, rgba(255,255,255,0.15) 0%, transparent 60%),
+          radial-gradient(circle at center, rgba(50, 43, 43, 0.15) 0%, transparent 60%),
           linear-gradient(to right, ${wheels[current].color}, ${wheels[current].color})
         `,
       }}
