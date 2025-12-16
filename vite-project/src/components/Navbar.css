@@ -10,7 +10,7 @@
     padding: 0 2rem;
     background: rgba(0, 0, 0, 0.1); 
     backdrop-filter: blur(6px);
-    color: white;
+    color: rgb(109, 102, 102);
     z-index: 1000;
   }
   
